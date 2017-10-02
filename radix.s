@@ -1,7 +1,7 @@
 # Radix Sort
 # Author:			Caleb Baker
 # Date:				September 18, 2017
-# Function header:	void radixSort(int size, int *A)
+# Function header:	void radixSort(int size, unsigned *A)
 # Summary:			A is an array of size size.
 #					This function sorts it using radix sort.
 # Modified: 9/20/17 by Caleb Baker
